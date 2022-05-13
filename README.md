@@ -1,4 +1,4 @@
-# A simple Tic Tac Toe using vue and kite
+# A simple Tic Tac Toe using vue and vite
 
 It's a very simple game. I created this to get an overview of vue and vite.
 
