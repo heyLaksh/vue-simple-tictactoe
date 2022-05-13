@@ -1,7 +1,11 @@
-# Vue 3 + Vite
+# A simple Tic Tac Toe using vue and kite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+It's a very simple game. I created this to get an overview of vue and vite.
 
-## Recommended IDE Setup
+## To use this 
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+- Clone the repo or download the code
+- run **npm install vite@latest** in terminal in the same directory as the repo
+- run **npm dev run**
+
+### Feel free to contact me:)
